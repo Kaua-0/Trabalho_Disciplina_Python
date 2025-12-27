@@ -2,7 +2,7 @@
 
 ## 📚 Descrição do Projeto
 Este projeto foi desenvolvido como parte da disciplina **Computational Logic Using Python**.  
-O objetivo é criar um sistema simples de controle de estoque para uma loja de eletrônicos, utilizando a linguagem **Python** e aplicando conceitos fundamentais de lógica de programação, controle de fluxo e estruturas de dados.
+O objetivo é criar um sistema simples de controle de estoque para uma loja de eletrônicos (Nome fictício  criado para a loja FORTALEZATECH), utilizando a linguagem **Python** e aplicando conceitos fundamentais de lógica de programação, controle de fluxo e estruturas de dados.
 
 O sistema funciona via **menu interativo no terminal**, permitindo ao usuário gerenciar produtos de forma prática.
 
